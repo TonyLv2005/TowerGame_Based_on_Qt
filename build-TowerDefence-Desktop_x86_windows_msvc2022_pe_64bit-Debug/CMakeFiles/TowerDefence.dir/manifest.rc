@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/94993/Desktop/game/build-TowerDefence-Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/TowerDefence.dir/embed.manifest"

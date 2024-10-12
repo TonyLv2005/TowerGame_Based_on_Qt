@@ -1,0 +1,27 @@
+# ninja log v5
+14	672	7399715780101392	TowerDefence_autogen/timestamp	7123c8476d28a0be
+673	2977	7399715804527308	TowerDefence_autogen/EWIEGA46WW/qrc_Resource.cpp	f847c77d929fbf10
+14	672	7399715780101392	TowerDefence_autogen/mocs_compilation.cpp	7123c8476d28a0be
+14	672	7399715780101392	C:/Users/94993/Desktop/game/build-TowerDefence-Desktop_x86_windows_msvc2022_pe_64bit-Debug/TowerDefence_autogen/timestamp	7123c8476d28a0be
+14	672	7399715780101392	C:/Users/94993/Desktop/game/build-TowerDefence-Desktop_x86_windows_msvc2022_pe_64bit-Debug/TowerDefence_autogen/mocs_compilation.cpp	7123c8476d28a0be
+673	2977	7399715804527308	C:/Users/94993/Desktop/game/build-TowerDefence-Desktop_x86_windows_msvc2022_pe_64bit-Debug/TowerDefence_autogen/EWIEGA46WW/qrc_Resource.cpp	f847c77d929fbf10
+3023	5193	7399715826660084	CMakeFiles/TowerDefence.dir/magic.cpp.obj	f55bcfe9ba54bf69
+2998	5210	7399715826859425	CMakeFiles/TowerDefence.dir/bullet.cpp.obj	846676140b15f56a
+3040	5233	7399715827058747	CMakeFiles/TowerDefence.dir/bs01_death.cpp.obj	b1b6cb8aab44af2f
+3019	5569	7399715830474627	CMakeFiles/TowerDefence.dir/mt01attack.cpp.obj	aa1e7c733ea4b746
+3011	6036	7399715835127425	CMakeFiles/TowerDefence.dir/enemy.cpp.obj	49b3f04ac534168
+2978	6795	7399715842712290	CMakeFiles/TowerDefence.dir/TowerDefence_autogen/mocs_compilation.cpp.obj	491bfb8cc8ee4c85
+2995	6041	7399715835202082	CMakeFiles/TowerDefence.dir/tower.cpp.obj	9234802678845a95
+3034	6106	7399715835819373	CMakeFiles/TowerDefence.dir/dtf01.cpp.obj	a3f6177e2480ee9f
+3004	6146	7399715836217441	CMakeFiles/TowerDefence.dir/mt01.cpp.obj	1ca95b89713eb9ea
+3015	6170	7399715836467573	CMakeFiles/TowerDefence.dir/bs01.cpp.obj	52e09988e8d2170a
+2988	6805	7399715842819680	CMakeFiles/TowerDefence.dir/main.cpp.obj	903615779c41e9c5
+2991	7296	7399715847690304	CMakeFiles/TowerDefence.dir/mainscene.cpp.obj	acbad05096a97235
+3045	13569	7399715909731044	CMakeFiles/TowerDefence.dir/TowerDefence_autogen/EWIEGA46WW/qrc_Resource.cpp.obj	7039a8af49ced441
+13569	14074	7399715915270954	TowerDefence.exe	2b524b909da3ace5
+25	746	7399773003073077	TowerDefence_autogen/timestamp	7123c8476d28a0be
+25	746	7399773003073077	TowerDefence_autogen/mocs_compilation.cpp	7123c8476d28a0be
+25	746	7399773003073077	C:/Users/94993/Desktop/game/build-TowerDefence-Desktop_x86_windows_msvc2022_pe_64bit-Debug/TowerDefence_autogen/timestamp	7123c8476d28a0be
+25	746	7399773003073077	C:/Users/94993/Desktop/game/build-TowerDefence-Desktop_x86_windows_msvc2022_pe_64bit-Debug/TowerDefence_autogen/mocs_compilation.cpp	7123c8476d28a0be
+746	3213	7399773028752735	CMakeFiles/TowerDefence.dir/TowerDefence_autogen/mocs_compilation.cpp.obj	491bfb8cc8ee4c85
+3214	3446	7399773030898127	TowerDefence.exe	2b524b909da3ace5
